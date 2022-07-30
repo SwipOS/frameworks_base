@@ -7440,5 +7440,9 @@ message MetricsEvent {
 
     // ARROW Metrics
     ARROW = 2772;
+
+    // SWIP Metrics
+    SWIP = 2773;
+
   }
 }
